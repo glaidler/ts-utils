@@ -1,0 +1,23 @@
+{
+  "name": "glaidler-ts-utils",
+  "version": "0.0.1",
+  "description": "Various TS files I find useful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaidler/ts-utils.git"
+  },
+  "keywords": [
+    "ts",
+    "utils"
+  ],
+  "author": "Graham Laidler <graham.laidler@accelerata.co.uk> (=)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaidler/ts-utils/issues"
+  },
+  "homepage": "https://github.com/glaidler/ts-utils#readme"
+}
