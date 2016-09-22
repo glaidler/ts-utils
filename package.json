@@ -1,6 +1,6 @@
 {
   "name": "glaidler-ts-utils",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Various TS files I find useful",
   "main": "ts/index.ts",
   "scripts": {
