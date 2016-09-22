@@ -1,5 +1,5 @@
-﻿
-interface IToolbarButton {
+﻿module glaidler-ts-utils{
+export interface IToolbarButton {
     name: string;
     subActions?: IToolbarButton[];
     icon?: string;
@@ -7,4 +7,7 @@ interface IToolbarButton {
     func?: (item: any) => void;
     disabled?: (item: any) => boolean;
     hidden?: (item: any) => boolean;
+}
+
+
 }

@@ -1,4 +1,6 @@
-﻿class ErrorContainer {
+﻿module glaidler-ts-utils{
+
+export class ErrorContainer {
     constructor() {
         this.clear();
 		this.failed = false;
@@ -17,4 +19,5 @@
         this.fatals = [];
         this.warnings = [];
     }
+}
 }
